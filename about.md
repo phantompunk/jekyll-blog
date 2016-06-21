@@ -1,20 +1,13 @@
 ---
 layout: page
-title: About Pixyll
+title: About
 permalink: /about/
 tags: about
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+A strong desire to influence the world around me drives me to expand knowledge  and continually learn new technologies. I want to exploit new bleeding edge technologies to provide incredible value and a phenomenal experience. The journey to become a great developer is paved blood, the hope of this blog is to catalog my journey. Keep as a reference and a reminder of how far I still have to go. And it be great if anyone else finds it useful.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
-
-Thanks to the following:
-
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+I'm not definitely not a great developer I'd have trouble even saying I'm a good
+developer, but also not a total newbie. The hope for this blog is to encapsulate
+everything I'm interested, learning, or building. This should be a resource
+primarily for myself in turn helpful to others hoping to better their craft.
